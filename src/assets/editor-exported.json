@@ -1,0 +1,1629 @@
+{
+  "assets": [
+    {
+      "type": "image",
+      "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-243c0e92-3ec2-4583-ab96-e8287eeb222f_1712047328.svg",
+      "unitDim": "px",
+      "height": 0,
+      "width": 0
+    },
+    {
+      "type": "image",
+      "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-9426a3e9-f3eb-4b9d-a00d-cc355f619e05_1712047043.svg",
+      "unitDim": "px",
+      "height": 0,
+      "width": 0
+    },
+    {
+      "type": "image",
+      "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-17013542-d8ee-430a-8abb-3f3d1086ddb6_1712045812.svg",
+      "unitDim": "px",
+      "height": 0,
+      "width": 0
+    },
+    {
+      "type": "image",
+      "src": "https://baomoi-static.bmcdn.me/web/styles/img/bm-logo.png",
+      "unitDim": "px",
+      "height": 0,
+      "width": 0
+    }
+  ],
+  "styles": [
+    "/* ! tailwindcss v3.4.3 | MIT License | https://tailwindcss.com */*,::after,::before{box-sizing:border-box;border-width:0;border-style:solid;border-color:#e5e7eb}::after,::before{--tw-content:''}:host,html{line-height:1.5;-webkit-text-size-adjust:100%;-moz-tab-size:4;tab-size:4;font-family:ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";font-feature-settings:normal;font-variation-settings:normal;-webkit-tap-highlight-color:transparent}body{margin:0;line-height:inherit}hr{height:0;color:inherit;border-top-width:1px}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;font-feature-settings:normal;font-variation-settings:normal;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{text-indent:0;border-color:inherit;border-collapse:collapse}button,input,optgroup,select,textarea{font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0}button,select{text-transform:none}button,input:where([type=button]),input:where([type=reset]),input:where([type=submit]){-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0;padding:0}legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}dialog{padding:0}textarea{resize:vertical}input::placeholder,textarea::placeholder{opacity:1;color:#9ca3af}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{max-width:100%;height:auto}[hidden]{display:none}*, ::before, ::after{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgb(59 130 246 / 0.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: }.absolute{position:absolute}.relative{position:relative}.left-0{left:0px}.top-0{top:0px}.z-50{z-index:50}.mx-auto{margin-left:auto;margin-right:auto}.mt-11{margin-top:2.75rem}.mt-14{margin-top:3.5rem}.line-clamp-2{overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2}.flex{display:flex}.hidden{display:none}.h-14{height:3.5rem}.h-6{height:1.5rem}.w-3\\/4{width:75%}.w-40{width:10rem}.w-6{width:1.5rem}.flex-1{flex:1 1 0%}.cursor-pointer{cursor:pointer}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-center{align-items:center}.justify-start{justify-content:flex-start}.justify-center{justify-content:center}.justify-between{justify-content:space-between}.space-x-16 > :not([hidden]) ~ :not([hidden]){--tw-space-x-reverse:0;margin-right:calc(4rem * var(--tw-space-x-reverse));margin-left:calc(4rem * calc(1 - var(--tw-space-x-reverse)))}.space-x-5 > :not([hidden]) ~ :not([hidden]){--tw-space-x-reverse:0;margin-right:calc(1.25rem * var(--tw-space-x-reverse));margin-left:calc(1.25rem * calc(1 - var(--tw-space-x-reverse)))}.rounded-sm{border-radius:0.125rem}.border{border-width:1px}.border-2{border-width:2px}.border-b{border-bottom-width:1px}.border-gray-100{--tw-border-opacity:1;border-color:rgb(243 244 246 / var(--tw-border-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255 / var(--tw-bg-opacity))}.bg-cyan-700{--tw-bg-opacity:1;background-color:rgb(14 116 144 / var(--tw-bg-opacity))}.p-2{padding:0.5rem}.p-2\\.5{padding:0.625rem}.px-3{padding-left:0.75rem;padding-right:0.75rem}.px-4{padding-left:1rem;padding-right:1rem}.py-3{padding-top:0.75rem;padding-bottom:0.75rem}.py-4{padding-top:1rem;padding-bottom:1rem}.text-sm{font-size:0.875rem;line-height:1.25rem}.uppercase{text-transform:uppercase}.text-black{--tw-text-opacity:1;color:rgb(0 0 0 / var(--tw-text-opacity))}.text-slate-500{--tw-text-opacity:1;color:rgb(100 116 139 / var(--tw-text-opacity))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.shadow-md{--tw-shadow:0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);--tw-shadow-colored:0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)}.transition{transition-property:color, background-color, border-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter;transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);transition-duration:150ms}.duration-100{transition-duration:100ms}.last\\:border-0:last-child{border-width:0px}.hover\\:bg-cyan-700:hover{--tw-bg-opacity:1;background-color:rgb(14 116 144 / var(--tw-bg-opacity))}.hover\\:bg-gray-100:hover{--tw-bg-opacity:1;background-color:rgb(243 244 246 / var(--tw-bg-opacity))}.hover\\:text-cyan-700:hover{--tw-text-opacity:1;color:rgb(14 116 144 / var(--tw-text-opacity))}.hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255 / var(--tw-text-opacity))}.group:first-child .group-first\\:left-0{left:0px}.group:last-child .group-last\\:right-0{right:0px}@media (min-width: 1024px){.lg\\:flex{display:flex}.lg\\:px-0{padding-left:0px;padding-right:0px}}",
+    {
+      "selectors": ["#iw09-2-2"],
+      "style": {
+        "width": "1024px"
+      }
+    },
+    {
+      "selectors": ["#ivhz-2"],
+      "style": {
+        "color": "black",
+        "width": "100%",
+        "height": "100%"
+      }
+    },
+    {
+      "selectors": ["#iacy"],
+      "style": {
+        "padding": "6px 10px 6px 14px"
+      }
+    },
+    {
+      "selectors": [
+        {
+          "name": "is1ul",
+          "label": "i0pku",
+          "type": 2
+        }
+      ],
+      "style": {
+        "padding": "10px"
+      }
+    },
+    {
+      "selectors": ["#i0pku"],
+      "style": {
+        "margin": "0px 0px 2px 0px"
+      }
+    },
+    {
+      "selectors": ["#iaxgj-2"],
+      "style": {
+        "color": "black",
+        "width": "20px",
+        "height": "20px"
+      }
+    },
+    {
+      "selectors": ["#iaqe7-2"],
+      "style": {
+        "color": "black",
+        "width": "100%",
+        "height": "100%"
+      }
+    },
+    {
+      "selectors": ["#ij70w"],
+      "style": {
+        "color": "black",
+        "width": "100%",
+        "height": "100%"
+      }
+    },
+    {
+      "selectors": ["#i9yaw"],
+      "style": {
+        "background": "#2b94a5"
+      }
+    },
+    {
+      "selectors": [
+        {
+          "name": "ilfah",
+          "label": "iteyh",
+          "type": 2
+        }
+      ],
+      "style": {
+        "padding": "10px"
+      }
+    },
+    {
+      "selectors": ["#iw09-2-2"],
+      "style": {
+        "width": "100%"
+      },
+      "mediaText": "(max-width: 810px)",
+      "atRuleType": "media"
+    },
+    {
+      "selectors": ["#i7l45"],
+      "style": {
+        "display": "block",
+        "padding": "10xp"
+      }
+    },
+    {
+      "selectors": ["#i2j43"],
+      "style": {
+        "width": "1024px"
+      }
+    },
+    {
+      "selectors": ["#iu9hj"],
+      "style": {
+        "display": "block",
+        "padding": "10xp"
+      }
+    },
+    {
+      "selectors": ["#i4gjt"],
+      "style": {
+        "display": "block",
+        "padding": "10xp"
+      }
+    },
+    {
+      "selectors": ["#ifkle"],
+      "style": {
+        "display": "block",
+        "padding": "10xp"
+      }
+    },
+    {
+      "selectors": ["#i76i7"],
+      "style": {
+        "display": "block",
+        "padding": "10xp"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "frames": [
+        {
+          "component": {
+            "type": "wrapper",
+            "stylable": [
+              "background",
+              "background-color",
+              "background-image",
+              "background-repeat",
+              "background-attachment",
+              "background-position",
+              "background-size"
+            ],
+            "attributes": {
+              "name": "",
+              "title": "",
+              "id": "i7lz"
+            },
+            "components": [
+              {
+                "name": "Section",
+                "resizable": {
+                  "tl": 0,
+                  "tc": 0,
+                  "tr": 0,
+                  "cl": 0,
+                  "cr": 0,
+                  "bl": 0,
+                  "br": 0,
+                  "minDim": 1
+                },
+                "classes": ["mx-auto", "py-4", "flex", "space-x-16", "justify-between", "px-4", "lg:px-0"],
+                "attributes": {
+                  "id": "iw09-2-2",
+                  "name": "",
+                  "title": ""
+                },
+                "components": [
+                  {
+                    "name": "Div",
+                    "resizable": {
+                      "tl": 0,
+                      "tc": 0,
+                      "tr": 0,
+                      "cl": 0,
+                      "cr": 0,
+                      "bl": 0,
+                      "br": 0,
+                      "minDim": 1
+                    },
+                    "classes": ["h-14"],
+                    "attributes": {
+                      "id": "i3ps",
+                      "name": "",
+                      "title": ""
+                    },
+                    "components": [
+                      {
+                        "tagName": "img",
+                        "type": "image",
+                        "name": "",
+                        "removable": true,
+                        "draggable": true,
+                        "droppable": 0,
+                        "badgable": true,
+                        "stylable": true,
+                        "stylable-require": "",
+                        "style-signature": "",
+                        "unstylable": "",
+                        "highlightable": 0,
+                        "copyable": true,
+                        "resizable": {
+                          "ratioDefault": 1
+                        },
+                        "editable": 1,
+                        "layerable": true,
+                        "selectable": true,
+                        "hoverable": true,
+                        "locked": false,
+                        "void": true,
+                        "state": "",
+                        "status": "",
+                        "content": "",
+                        "icon": "",
+                        "style": "",
+                        "styles": "",
+                        "classes": [],
+                        "script": "",
+                        "script-props": "",
+                        "script-export": "",
+                        "attributes": {
+                          "id": "ivhz-2",
+                          "src": "https://baomoi-static.bmcdn.me/web/styles/img/bm-logo.png",
+                          "name": "",
+                          "title": ""
+                        },
+                        "traits": [
+                          {
+                            "type": "text",
+                            "label": "",
+                            "name": "alt",
+                            "unit": "",
+                            "step": 1,
+                            "value": "",
+                            "default": "",
+                            "placeholder": "",
+                            "changeProp": false,
+                            "options": [],
+                            "id": "alt"
+                          }
+                        ],
+                        "propagate": "",
+                        "dmode": "",
+                        "toolbar": [
+                          {
+                            "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                          },
+                          {
+                            "attributes": {
+                              "class": "gjs-no-touch-actions",
+                              "draggable": true
+                            },
+                            "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                            "command": "tlb-move"
+                          },
+                          {
+                            "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                            "command": "tlb-clone"
+                          },
+                          {
+                            "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                            "command": "tlb-delete"
+                          }
+                        ],
+                        "__symbol": 0,
+                        "__symbols": 0,
+                        "__symbol_ovrd": 0,
+                        "_undo": true,
+                        "_undoexc": ["status", "open"],
+                        "src": "https://baomoi-static.bmcdn.me/web/styles/img/bm-logo.png",
+                        "fallback": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" viewBox=\"0 0 24 24\" style=\"fill: rgba(0,0,0,0.15); transform: scale(0.75)\">\n        <path d=\"M2.28 3L1 4.27l2 2V19c0 1.1.9 2 2 2h12.73l2 2L21 21.72 2.28 3m2.55 0L21 19.17V5a2 2 0 0 0-2-2H4.83M8.5 13.5l2.5 3 1-1.25L14.73 18H5l3.5-4.5z\"></path>\n      </svg>",
+                        "file": "",
+                        "components": []
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Div",
+                    "resizable": {
+                      "tl": 0,
+                      "tc": 0,
+                      "tr": 0,
+                      "cl": 0,
+                      "cr": 0,
+                      "bl": 0,
+                      "br": 0,
+                      "minDim": 1
+                    },
+                    "classes": ["flex-1", "items-center", "hidden", "lg:flex"],
+                    "attributes": {
+                      "name": "",
+                      "title": "",
+                      "id": "i65e"
+                    },
+                    "components": [
+                      {
+                        "name": "Div",
+                        "resizable": {
+                          "tl": 0,
+                          "tc": 0,
+                          "tr": 0,
+                          "cl": 0,
+                          "cr": 0,
+                          "bl": 0,
+                          "br": 0,
+                          "minDim": 1
+                        },
+                        "classes": [
+                          "w-3/4",
+                          "border-2",
+                          "border-gray-100",
+                          "px-3",
+                          "flex",
+                          "items-center",
+                          "justify-between"
+                        ],
+                        "attributes": {
+                          "id": "iacy",
+                          "name": "",
+                          "title": ""
+                        },
+                        "components": [
+                          {
+                            "tagName": "div",
+                            "type": "text",
+                            "name": "",
+                            "removable": true,
+                            "draggable": true,
+                            "droppable": false,
+                            "badgable": true,
+                            "stylable": true,
+                            "stylable-require": "",
+                            "style-signature": "",
+                            "unstylable": "",
+                            "highlightable": true,
+                            "copyable": true,
+                            "resizable": false,
+                            "editable": true,
+                            "layerable": true,
+                            "selectable": true,
+                            "hoverable": true,
+                            "locked": false,
+                            "void": false,
+                            "state": "",
+                            "status": "",
+                            "content": "Insert your text here",
+                            "icon": "",
+                            "style": "",
+                            "styles": "",
+                            "classes": ["text-sm", "text-slate-500"],
+                            "script": "",
+                            "script-props": "",
+                            "script-export": "",
+                            "attributes": {
+                              "id": "i0pku",
+                              "name": "",
+                              "title": ""
+                            },
+                            "traits": [
+                              {
+                                "type": "text",
+                                "label": "",
+                                "name": "id",
+                                "unit": "",
+                                "step": 1,
+                                "value": "i0pku",
+                                "default": "",
+                                "placeholder": "",
+                                "changeProp": false,
+                                "options": [],
+                                "id": "id"
+                              },
+                              {
+                                "type": "text",
+                                "label": "",
+                                "name": "title",
+                                "unit": "",
+                                "step": 1,
+                                "value": "",
+                                "default": "",
+                                "placeholder": "",
+                                "changeProp": false,
+                                "options": [],
+                                "id": "title"
+                              }
+                            ],
+                            "propagate": "",
+                            "dmode": "",
+                            "toolbar": [
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                              },
+                              {
+                                "attributes": {
+                                  "class": "gjs-no-touch-actions",
+                                  "draggable": true
+                                },
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                "command": "tlb-move"
+                              },
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                "command": "tlb-clone"
+                              },
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                "command": "tlb-delete"
+                              }
+                            ],
+                            "__symbol": 0,
+                            "__symbols": 0,
+                            "__symbol_ovrd": 0,
+                            "_undo": true,
+                            "_undoexc": ["status", "open"],
+                            "components": []
+                          },
+                          {
+                            "tagName": "img",
+                            "type": "image",
+                            "name": "",
+                            "removable": true,
+                            "draggable": true,
+                            "droppable": 0,
+                            "badgable": true,
+                            "stylable": true,
+                            "stylable-require": "",
+                            "style-signature": "",
+                            "unstylable": "",
+                            "highlightable": 0,
+                            "copyable": true,
+                            "resizable": {
+                              "ratioDefault": 1
+                            },
+                            "editable": 1,
+                            "layerable": true,
+                            "selectable": true,
+                            "hoverable": true,
+                            "locked": false,
+                            "void": true,
+                            "state": "",
+                            "status": "",
+                            "content": "",
+                            "icon": "",
+                            "style": "",
+                            "styles": "",
+                            "classes": [],
+                            "script": "",
+                            "script-props": "",
+                            "script-export": "",
+                            "attributes": {
+                              "id": "iaxgj-2",
+                              "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-17013542-d8ee-430a-8abb-3f3d1086ddb6_1712045812.svg",
+                              "name": "",
+                              "title": ""
+                            },
+                            "traits": [
+                              {
+                                "type": "text",
+                                "label": "",
+                                "name": "alt",
+                                "unit": "",
+                                "step": 1,
+                                "value": "",
+                                "default": "",
+                                "placeholder": "",
+                                "changeProp": false,
+                                "options": [],
+                                "id": "alt"
+                              }
+                            ],
+                            "propagate": "",
+                            "dmode": "",
+                            "toolbar": [
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                              },
+                              {
+                                "attributes": {
+                                  "class": "gjs-no-touch-actions",
+                                  "draggable": true
+                                },
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                "command": "tlb-move"
+                              },
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                "command": "tlb-clone"
+                              },
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                "command": "tlb-delete"
+                              }
+                            ],
+                            "__symbol": 0,
+                            "__symbols": 0,
+                            "__symbol_ovrd": 0,
+                            "_undo": true,
+                            "_undoexc": ["status", "open"],
+                            "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-17013542-d8ee-430a-8abb-3f3d1086ddb6_1712045812.svg",
+                            "fallback": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" viewBox=\"0 0 24 24\" style=\"fill: rgba(0,0,0,0.15); transform: scale(0.75)\">\n        <path d=\"M2.28 3L1 4.27l2 2V19c0 1.1.9 2 2 2h12.73l2 2L21 21.72 2.28 3m2.55 0L21 19.17V5a2 2 0 0 0-2-2H4.83M8.5 13.5l2.5 3 1-1.25L14.73 18H5l3.5-4.5z\"></path>\n      </svg>",
+                            "file": "",
+                            "components": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Div",
+                    "resizable": {
+                      "tl": 0,
+                      "tc": 0,
+                      "tr": 0,
+                      "cl": 0,
+                      "cr": 0,
+                      "bl": 0,
+                      "br": 0,
+                      "minDim": 1
+                    },
+                    "classes": ["flex", "items-center", "space-x-5"],
+                    "attributes": {
+                      "name": "",
+                      "title": "",
+                      "id": "i9sk"
+                    },
+                    "components": [
+                      {
+                        "name": "Div",
+                        "resizable": {
+                          "tl": 0,
+                          "tc": 0,
+                          "tr": 0,
+                          "cl": 0,
+                          "cr": 0,
+                          "bl": 0,
+                          "br": 0,
+                          "minDim": 1
+                        },
+                        "classes": ["w-6", "h-6"],
+                        "attributes": {
+                          "id": "i8m4w-2",
+                          "name": "",
+                          "title": ""
+                        },
+                        "components": [
+                          {
+                            "tagName": "img",
+                            "type": "image",
+                            "name": "",
+                            "removable": true,
+                            "draggable": true,
+                            "droppable": 0,
+                            "badgable": true,
+                            "stylable": true,
+                            "stylable-require": "",
+                            "style-signature": "",
+                            "unstylable": "",
+                            "highlightable": 0,
+                            "copyable": true,
+                            "resizable": {
+                              "ratioDefault": 1
+                            },
+                            "editable": 1,
+                            "layerable": true,
+                            "selectable": true,
+                            "hoverable": true,
+                            "locked": false,
+                            "void": true,
+                            "state": "",
+                            "status": "",
+                            "content": "",
+                            "icon": "",
+                            "style": "",
+                            "styles": "",
+                            "classes": [],
+                            "script": "",
+                            "script-props": "",
+                            "script-export": "",
+                            "attributes": {
+                              "id": "iaqe7-2",
+                              "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-9426a3e9-f3eb-4b9d-a00d-cc355f619e05_1712047043.svg",
+                              "name": "",
+                              "title": ""
+                            },
+                            "traits": [
+                              {
+                                "type": "text",
+                                "label": "",
+                                "name": "alt",
+                                "unit": "",
+                                "step": 1,
+                                "value": "",
+                                "default": "",
+                                "placeholder": "",
+                                "changeProp": false,
+                                "options": [],
+                                "id": "alt"
+                              }
+                            ],
+                            "propagate": "",
+                            "dmode": "",
+                            "toolbar": [
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                              },
+                              {
+                                "attributes": {
+                                  "class": "gjs-no-touch-actions",
+                                  "draggable": true
+                                },
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                "command": "tlb-move"
+                              },
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                "command": "tlb-clone"
+                              },
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                "command": "tlb-delete"
+                              }
+                            ],
+                            "__symbol": 0,
+                            "__symbols": 0,
+                            "__symbol_ovrd": 0,
+                            "_undo": true,
+                            "_undoexc": ["status", "open"],
+                            "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-9426a3e9-f3eb-4b9d-a00d-cc355f619e05_1712047043.svg",
+                            "fallback": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" viewBox=\"0 0 24 24\" style=\"fill: rgba(0,0,0,0.15); transform: scale(0.75)\">\n        <path d=\"M2.28 3L1 4.27l2 2V19c0 1.1.9 2 2 2h12.73l2 2L21 21.72 2.28 3m2.55 0L21 19.17V5a2 2 0 0 0-2-2H4.83M8.5 13.5l2.5 3 1-1.25L14.73 18H5l3.5-4.5z\"></path>\n      </svg>",
+                            "file": "",
+                            "components": []
+                          }
+                        ]
+                      },
+                      {
+                        "name": "Div",
+                        "resizable": {
+                          "tl": 0,
+                          "tc": 0,
+                          "tr": 0,
+                          "cl": 0,
+                          "cr": 0,
+                          "bl": 0,
+                          "br": 0,
+                          "minDim": 1
+                        },
+                        "classes": ["w-6", "h-6"],
+                        "attributes": {
+                          "name": "",
+                          "title": "",
+                          "id": "ifsdi"
+                        },
+                        "components": [
+                          {
+                            "tagName": "img",
+                            "type": "image",
+                            "name": "",
+                            "removable": true,
+                            "draggable": true,
+                            "droppable": 0,
+                            "badgable": true,
+                            "stylable": true,
+                            "stylable-require": "",
+                            "style-signature": "",
+                            "unstylable": "",
+                            "highlightable": 0,
+                            "copyable": true,
+                            "resizable": {
+                              "ratioDefault": 1
+                            },
+                            "editable": 1,
+                            "layerable": true,
+                            "selectable": true,
+                            "hoverable": true,
+                            "locked": false,
+                            "void": true,
+                            "state": "",
+                            "status": "",
+                            "content": "",
+                            "icon": "",
+                            "style": "",
+                            "styles": "",
+                            "classes": [],
+                            "script": "",
+                            "script-props": "",
+                            "script-export": "",
+                            "attributes": {
+                              "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-243c0e92-3ec2-4583-ab96-e8287eeb222f_1712047328.svg",
+                              "name": "",
+                              "title": "",
+                              "id": "ij70w"
+                            },
+                            "traits": [
+                              {
+                                "type": "text",
+                                "label": "",
+                                "name": "alt",
+                                "unit": "",
+                                "step": 1,
+                                "value": "",
+                                "default": "",
+                                "placeholder": "",
+                                "changeProp": false,
+                                "options": [],
+                                "id": "alt"
+                              }
+                            ],
+                            "propagate": "",
+                            "dmode": "",
+                            "toolbar": [
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                              },
+                              {
+                                "attributes": {
+                                  "class": "gjs-no-touch-actions",
+                                  "draggable": true
+                                },
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                "command": "tlb-move"
+                              },
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                "command": "tlb-clone"
+                              },
+                              {
+                                "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                "command": "tlb-delete"
+                              }
+                            ],
+                            "__symbol": 0,
+                            "__symbols": 0,
+                            "__symbol_ovrd": 0,
+                            "_undo": true,
+                            "_undoexc": ["status", "open"],
+                            "src": "https://file.storage.techupzone.com/linkstar-stg/public/upload/ud795368c-e115-454a-b71e-7ff014789296-243c0e92-3ec2-4583-ab96-e8287eeb222f_1712047328.svg",
+                            "fallback": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" viewBox=\"0 0 24 24\" style=\"fill: rgba(0,0,0,0.15); transform: scale(0.75)\">\n        <path d=\"M2.28 3L1 4.27l2 2V19c0 1.1.9 2 2 2h12.73l2 2L21 21.72 2.28 3m2.55 0L21 19.17V5a2 2 0 0 0-2-2H4.83M8.5 13.5l2.5 3 1-1.25L14.73 18H5l3.5-4.5z\"></path>\n      </svg>",
+                            "file": "",
+                            "components": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Section",
+                "resizable": {
+                  "tl": 0,
+                  "tc": 0,
+                  "tr": 0,
+                  "cl": 0,
+                  "cr": 0,
+                  "bl": 0,
+                  "br": 0,
+                  "minDim": 1
+                },
+                "attributes": {
+                  "id": "i9yaw",
+                  "name": "",
+                  "title": ""
+                },
+                "components": [
+                  {
+                    "tagName": "nav",
+                    "type": "header-comp",
+                    "name": "Header Navigation Menu",
+                    "classes": [
+                      "mx-auto",
+                      "flex",
+                      "items-center",
+                      "justify-start",
+                      "uppercase",
+                      "text-white"
+                    ],
+                    "attributes": {
+                      "data-w-type": "header_navigation_menu",
+                      "name": "",
+                      "title": "",
+                      "id": "i2j43"
+                    },
+                    "components": [
+                      {
+                        "name": "Navigation Menu Item",
+                        "content": "Nóng",
+                        "classes": [
+                          "px-4",
+                          "py-3",
+                          "uppercase",
+                          "text-white",
+                          "relative",
+                          "group-last",
+                          "group",
+                          "bg-cyan-700",
+                          "hover:text-white"
+                        ],
+                        "attributes": {
+                          "data-hasdropdown": "menu",
+                          "data-w-type": "navigation_menu_item",
+                          "data-menu-level": 2,
+                          "data-cms-type": "news",
+                          "id": "icj97",
+                          "name": "",
+                          "title": ""
+                        },
+                        "components": [
+                          {
+                            "type": "textnode",
+                            "content": "Nóng"
+                          },
+                          {
+                            "tagName": "category-list",
+                            "classes": [
+                              "absolute",
+                              "flex-col",
+                              "flex-wrap",
+                              "justify-center",
+                              "rounded-sm",
+                              "z-50",
+                              "top-0",
+                              "group-first:left-0",
+                              "group-last:right-0",
+                              "w-40",
+                              "mt-14",
+                              "duration-100",
+                              "transition",
+                              "bg-white",
+                              "shadow-md",
+                              "border",
+                              "left-0",
+                              "mt-11",
+                              "text-black"
+                            ],
+                            "attributes": {
+                              "data-page-type": "news",
+                              "data-w-type": "dropdown_menu",
+                              "data-auto-generate-children": "true",
+                              "data-children-count": "7",
+                              "data-merge-tag": "category_list",
+                              "data-category-count": "7",
+                              "name": "",
+                              "title": "",
+                              "id": "i3eno"
+                            },
+                            "components": [
+                              {
+                                "tagName": "category-element",
+                                "classes": [
+                                  "border-b",
+                                  "cursor-pointer",
+                                  "last:border-0",
+                                  "p-2.5",
+                                  "hover:bg-gray-100",
+                                  "hover:text-cyan-700"
+                                ],
+                                "attributes": {
+                                  "data-page-type": "news",
+                                  "data-hook-type": "category_list_children",
+                                  "data-children-type": "content_child",
+                                  "data-merge-tag": "category_element",
+                                  "id": "i7l45",
+                                  "name": "",
+                                  "title": ""
+                                },
+                                "components": [
+                                  {
+                                    "tagName": "a",
+                                    "type": "link",
+                                    "name": "",
+                                    "removable": true,
+                                    "draggable": true,
+                                    "droppable": false,
+                                    "badgable": true,
+                                    "stylable": true,
+                                    "stylable-require": "",
+                                    "style-signature": "",
+                                    "unstylable": "",
+                                    "highlightable": true,
+                                    "copyable": true,
+                                    "resizable": false,
+                                    "editable": true,
+                                    "layerable": true,
+                                    "selectable": true,
+                                    "hoverable": true,
+                                    "locked": false,
+                                    "void": false,
+                                    "state": "",
+                                    "status": "",
+                                    "content": "",
+                                    "icon": "",
+                                    "style": "",
+                                    "styles": "",
+                                    "classes": ["line-clamp-2"],
+                                    "script": "",
+                                    "script-props": "",
+                                    "script-export": "",
+                                    "attributes": {
+                                      "data-page-type": "news",
+                                      "data-hook-type": "category_element_children",
+                                      "data-hook-inner-content": "category.title",
+                                      "data-hook-uuid": "{category.uuid}",
+                                      "data-hook-slug": "{category.slug}",
+                                      "data-merge-tag": "children_merge_tag",
+                                      "data-hook-category-uuid": "{category.article_category_uuid}"
+                                    },
+                                    "traits": [
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "title",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "title"
+                                      },
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "href",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "href"
+                                      },
+                                      {
+                                        "type": "select",
+                                        "label": "",
+                                        "name": "target",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": false,
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [
+                                          {
+                                            "value": false
+                                          },
+                                          {
+                                            "value": "_blank"
+                                          }
+                                        ],
+                                        "id": "target"
+                                      }
+                                    ],
+                                    "propagate": "",
+                                    "dmode": "",
+                                    "toolbar": [
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "class": "gjs-no-touch-actions",
+                                          "draggable": true
+                                        },
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                        "command": "tlb-move"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                        "command": "tlb-clone"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                        "command": "tlb-delete"
+                                      }
+                                    ],
+                                    "__symbol": 0,
+                                    "__symbols": 0,
+                                    "__symbol_ovrd": 0,
+                                    "_undo": true,
+                                    "_undoexc": ["status", "open"],
+                                    "components": [
+                                      {
+                                        "type": "textnode",
+                                        "content": "{category.title}"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "custom-name": "Category Element"
+                              },
+                              {
+                                "tagName": "category-element",
+                                "classes": [
+                                  "border-b",
+                                  "cursor-pointer",
+                                  "last:border-0",
+                                  "p-2.5",
+                                  "hover:bg-gray-100",
+                                  "hover:text-cyan-700"
+                                ],
+                                "attributes": {
+                                  "data-page-type": "news",
+                                  "data-hook-type": "category_list_children",
+                                  "data-children-type": "content_child",
+                                  "data-merge-tag": "category_element",
+                                  "name": "",
+                                  "title": "",
+                                  "id": "i76i7"
+                                },
+                                "components": [
+                                  {
+                                    "tagName": "a",
+                                    "type": "link",
+                                    "name": "",
+                                    "removable": true,
+                                    "draggable": true,
+                                    "droppable": false,
+                                    "badgable": true,
+                                    "stylable": true,
+                                    "stylable-require": "",
+                                    "style-signature": "",
+                                    "unstylable": "",
+                                    "highlightable": true,
+                                    "copyable": true,
+                                    "resizable": false,
+                                    "editable": true,
+                                    "layerable": true,
+                                    "selectable": true,
+                                    "hoverable": true,
+                                    "locked": false,
+                                    "void": false,
+                                    "state": "",
+                                    "status": "",
+                                    "content": "",
+                                    "icon": "",
+                                    "style": "",
+                                    "styles": "",
+                                    "classes": ["line-clamp-2"],
+                                    "script": "",
+                                    "script-props": "",
+                                    "script-export": "",
+                                    "attributes": {
+                                      "data-page-type": "news",
+                                      "data-hook-type": "category_element_children",
+                                      "data-hook-inner-content": "category.title",
+                                      "data-hook-uuid": "{category.uuid}",
+                                      "data-hook-slug": "{category.slug}",
+                                      "data-merge-tag": "children_merge_tag",
+                                      "data-hook-category-uuid": "{category.article_category_uuid}"
+                                    },
+                                    "traits": [
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "title",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "title"
+                                      },
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "href",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "href"
+                                      },
+                                      {
+                                        "type": "select",
+                                        "label": "",
+                                        "name": "target",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": false,
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [
+                                          {
+                                            "value": false
+                                          },
+                                          {
+                                            "value": "_blank"
+                                          }
+                                        ],
+                                        "id": "target"
+                                      }
+                                    ],
+                                    "propagate": "",
+                                    "dmode": "",
+                                    "toolbar": [
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "class": "gjs-no-touch-actions",
+                                          "draggable": true
+                                        },
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                        "command": "tlb-move"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                        "command": "tlb-clone"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                        "command": "tlb-delete"
+                                      }
+                                    ],
+                                    "__symbol": 0,
+                                    "__symbols": 0,
+                                    "__symbol_ovrd": 0,
+                                    "_undo": true,
+                                    "_undoexc": ["status", "open"],
+                                    "components": [
+                                      {
+                                        "type": "textnode",
+                                        "content": "{category.title}"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "custom-name": "Category Element"
+                              },
+                              {
+                                "tagName": "category-element",
+                                "classes": [
+                                  "border-b",
+                                  "cursor-pointer",
+                                  "last:border-0",
+                                  "p-2.5",
+                                  "hover:bg-gray-100",
+                                  "hover:text-cyan-700"
+                                ],
+                                "attributes": {
+                                  "data-page-type": "news",
+                                  "data-hook-type": "category_list_children",
+                                  "data-children-type": "content_child",
+                                  "data-merge-tag": "category_element",
+                                  "name": "",
+                                  "title": "",
+                                  "id": "ifkle"
+                                },
+                                "components": [
+                                  {
+                                    "tagName": "a",
+                                    "type": "link",
+                                    "name": "",
+                                    "removable": true,
+                                    "draggable": true,
+                                    "droppable": false,
+                                    "badgable": true,
+                                    "stylable": true,
+                                    "stylable-require": "",
+                                    "style-signature": "",
+                                    "unstylable": "",
+                                    "highlightable": true,
+                                    "copyable": true,
+                                    "resizable": false,
+                                    "editable": true,
+                                    "layerable": true,
+                                    "selectable": true,
+                                    "hoverable": true,
+                                    "locked": false,
+                                    "void": false,
+                                    "state": "",
+                                    "status": "",
+                                    "content": "",
+                                    "icon": "",
+                                    "style": "",
+                                    "styles": "",
+                                    "classes": ["line-clamp-2"],
+                                    "script": "",
+                                    "script-props": "",
+                                    "script-export": "",
+                                    "attributes": {
+                                      "data-page-type": "news",
+                                      "data-hook-type": "category_element_children",
+                                      "data-hook-inner-content": "category.title",
+                                      "data-hook-uuid": "{category.uuid}",
+                                      "data-hook-slug": "{category.slug}",
+                                      "data-merge-tag": "children_merge_tag",
+                                      "data-hook-category-uuid": "{category.article_category_uuid}"
+                                    },
+                                    "traits": [
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "title",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "title"
+                                      },
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "href",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "href"
+                                      },
+                                      {
+                                        "type": "select",
+                                        "label": "",
+                                        "name": "target",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": false,
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [
+                                          {
+                                            "value": false
+                                          },
+                                          {
+                                            "value": "_blank"
+                                          }
+                                        ],
+                                        "id": "target"
+                                      }
+                                    ],
+                                    "propagate": "",
+                                    "dmode": "",
+                                    "toolbar": [
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "class": "gjs-no-touch-actions",
+                                          "draggable": true
+                                        },
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                        "command": "tlb-move"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                        "command": "tlb-clone"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                        "command": "tlb-delete"
+                                      }
+                                    ],
+                                    "__symbol": 0,
+                                    "__symbols": 0,
+                                    "__symbol_ovrd": 0,
+                                    "_undo": true,
+                                    "_undoexc": ["status", "open"],
+                                    "components": [
+                                      {
+                                        "type": "textnode",
+                                        "content": "{category.title}"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "custom-name": "Category Element"
+                              },
+                              {
+                                "tagName": "category-element",
+                                "classes": [
+                                  "border-b",
+                                  "cursor-pointer",
+                                  "last:border-0",
+                                  "p-2.5",
+                                  "hover:bg-gray-100",
+                                  "hover:text-cyan-700"
+                                ],
+                                "attributes": {
+                                  "data-page-type": "news",
+                                  "data-hook-type": "category_list_children",
+                                  "data-children-type": "content_child",
+                                  "data-merge-tag": "category_element",
+                                  "name": "",
+                                  "title": "",
+                                  "id": "i4gjt"
+                                },
+                                "components": [
+                                  {
+                                    "tagName": "a",
+                                    "type": "link",
+                                    "name": "",
+                                    "removable": true,
+                                    "draggable": true,
+                                    "droppable": false,
+                                    "badgable": true,
+                                    "stylable": true,
+                                    "stylable-require": "",
+                                    "style-signature": "",
+                                    "unstylable": "",
+                                    "highlightable": true,
+                                    "copyable": true,
+                                    "resizable": false,
+                                    "editable": true,
+                                    "layerable": true,
+                                    "selectable": true,
+                                    "hoverable": true,
+                                    "locked": false,
+                                    "void": false,
+                                    "state": "",
+                                    "status": "",
+                                    "content": "",
+                                    "icon": "",
+                                    "style": "",
+                                    "styles": "",
+                                    "classes": ["line-clamp-2"],
+                                    "script": "",
+                                    "script-props": "",
+                                    "script-export": "",
+                                    "attributes": {
+                                      "data-page-type": "news",
+                                      "data-hook-type": "category_element_children",
+                                      "data-hook-inner-content": "category.title",
+                                      "data-hook-uuid": "{category.uuid}",
+                                      "data-hook-slug": "{category.slug}",
+                                      "data-merge-tag": "children_merge_tag",
+                                      "data-hook-category-uuid": "{category.article_category_uuid}"
+                                    },
+                                    "traits": [
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "title",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "title"
+                                      },
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "href",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "href"
+                                      },
+                                      {
+                                        "type": "select",
+                                        "label": "",
+                                        "name": "target",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": false,
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [
+                                          {
+                                            "value": false
+                                          },
+                                          {
+                                            "value": "_blank"
+                                          }
+                                        ],
+                                        "id": "target"
+                                      }
+                                    ],
+                                    "propagate": "",
+                                    "dmode": "",
+                                    "toolbar": [
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "class": "gjs-no-touch-actions",
+                                          "draggable": true
+                                        },
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                        "command": "tlb-move"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                        "command": "tlb-clone"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                        "command": "tlb-delete"
+                                      }
+                                    ],
+                                    "__symbol": 0,
+                                    "__symbols": 0,
+                                    "__symbol_ovrd": 0,
+                                    "_undo": true,
+                                    "_undoexc": ["status", "open"],
+                                    "components": [
+                                      {
+                                        "type": "textnode",
+                                        "content": "{category.title}"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "custom-name": "Category Element"
+                              },
+                              {
+                                "tagName": "category-element",
+                                "classes": [
+                                  "border-b",
+                                  "cursor-pointer",
+                                  "last:border-0",
+                                  "p-2.5",
+                                  "hover:bg-gray-100",
+                                  "hover:text-cyan-700"
+                                ],
+                                "attributes": {
+                                  "data-page-type": "news",
+                                  "data-hook-type": "category_list_children",
+                                  "data-children-type": "content_child",
+                                  "data-merge-tag": "category_element",
+                                  "name": "",
+                                  "title": "",
+                                  "id": "iu9hj"
+                                },
+                                "components": [
+                                  {
+                                    "tagName": "a",
+                                    "type": "link",
+                                    "name": "",
+                                    "removable": true,
+                                    "draggable": true,
+                                    "droppable": false,
+                                    "badgable": true,
+                                    "stylable": true,
+                                    "stylable-require": "",
+                                    "style-signature": "",
+                                    "unstylable": "",
+                                    "highlightable": true,
+                                    "copyable": true,
+                                    "resizable": false,
+                                    "editable": true,
+                                    "layerable": true,
+                                    "selectable": true,
+                                    "hoverable": true,
+                                    "locked": false,
+                                    "void": false,
+                                    "state": "",
+                                    "status": "",
+                                    "content": "",
+                                    "icon": "",
+                                    "style": "",
+                                    "styles": "",
+                                    "classes": ["line-clamp-2"],
+                                    "script": "",
+                                    "script-props": "",
+                                    "script-export": "",
+                                    "attributes": {
+                                      "data-page-type": "news",
+                                      "data-hook-type": "category_element_children",
+                                      "data-hook-inner-content": "category.title",
+                                      "data-hook-uuid": "{category.uuid}",
+                                      "data-hook-slug": "{category.slug}",
+                                      "data-merge-tag": "children_merge_tag",
+                                      "data-hook-category-uuid": "{category.article_category_uuid}"
+                                    },
+                                    "traits": [
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "title",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "title"
+                                      },
+                                      {
+                                        "type": "text",
+                                        "label": "",
+                                        "name": "href",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": "",
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [],
+                                        "id": "href"
+                                      },
+                                      {
+                                        "type": "select",
+                                        "label": "",
+                                        "name": "target",
+                                        "unit": "",
+                                        "step": 1,
+                                        "value": "",
+                                        "default": false,
+                                        "placeholder": "",
+                                        "changeProp": false,
+                                        "options": [
+                                          {
+                                            "value": false
+                                          },
+                                          {
+                                            "value": "_blank"
+                                          }
+                                        ],
+                                        "id": "target"
+                                      }
+                                    ],
+                                    "propagate": "",
+                                    "dmode": "",
+                                    "toolbar": [
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,20H11V8L5.5,13.5L4.08,12.08L12,4.16L19.92,12.08L18.5,13.5L13,8V20Z\" /></svg>"
+                                      },
+                                      {
+                                        "attributes": {
+                                          "class": "gjs-no-touch-actions",
+                                          "draggable": true
+                                        },
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M13,6V11H18V7.75L22.25,12L18,16.25V13H13V18H16.25L12,22.25L7.75,18H11V13H6V16.25L1.75,12L6,7.75V11H11V6H7.75L12,1.75L16.25,6H13Z\"/></svg>",
+                                        "command": "tlb-move"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z\" /></svg>",
+                                        "command": "tlb-clone"
+                                      },
+                                      {
+                                        "label": "<svg viewBox=\"0 0 24 24\"><path fill=\"currentColor\" d=\"M19,4H15.5L14.5,3H9.5L8.5,4H5V6H19M6,19A2,2 0 0,0 8,21H16A2,2 0 0,0 18,19V7H6V19Z\" /></svg>",
+                                        "command": "tlb-delete"
+                                      }
+                                    ],
+                                    "__symbol": 0,
+                                    "__symbols": 0,
+                                    "__symbol_ovrd": 0,
+                                    "_undo": true,
+                                    "_undoexc": ["status", "open"],
+                                    "components": [
+                                      {
+                                        "type": "textnode",
+                                        "content": "{category.title}"
+                                      }
+                                    ]
+                                  }
+                                ],
+                                "custom-name": "Category Element"
+                              }
+                            ],
+                            "custom-name": "Category List"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "type": "main",
+      "id": "fCQVgCIMmv9YVRTB"
+    }
+  ]
+}
