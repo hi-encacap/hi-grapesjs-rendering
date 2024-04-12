@@ -6,36 +6,22 @@ const parseComponents = (components: GrapesComponent[] = []) => {
   if (!components.length) return null;
 
   return components.map((component) => {
-    const { components, attributes, classes, content, name, type, tagName } = component;
-    const key = get(component, "attributes.id", Math.random());
+    const { attributes } = component;
+    const key = get(attributes, "attributes", Math.random());
 
-    // if (name?.includes("Menu Item")) {
-    //   console.log("navigation", component);
-    // }
-
-    return (
-      <GrapesContainer
-        attributes={attributes}
-        classes={classes}
-        content={content}
-        key={key}
-        name={name}
-        type={type}
-        tagName={tagName}
-      >
-        {components && parseComponents(components)}
-      </GrapesContainer>
-    );
+    return <GrapesContainer component={component} key={key} onParseComponents={parseComponents} />;
   });
 };
 
 const parseFrame = (frame: GrapesFrame) => {
-  const { component, id } = frame;
+  const { component } = frame;
 
   return (
-    <div key={id || Math.random()}>
-      <GrapesContainer type={component.type}>{parseComponents(component.components)}</GrapesContainer>
-    </div>
+    <GrapesContainer
+      key={get(component.attributes, "id", Math.random())}
+      component={component}
+      onParseComponents={parseComponents}
+    />
   );
 };
 

@@ -3,7 +3,7 @@ import { CSSProperties } from "react";
 interface GrapesComponent {
   attributes?: Record<string, string>;
   classes?: string[];
-  components?: GrapesComponent[];
+  components: GrapesComponent[];
   content?: unknown;
   stylable?: string[];
   type: string;
